@@ -22,7 +22,7 @@ Cad Bane|offense|speed
 Captain Han Solo|potency|offense
 Captain Phasma|tenacity|offense
 Cassian Andor|potency|defense
-"CC-2224 ""Cody"""|crit_dam|defense
+CC-2224 "Cody"|crit_dam|defense
 Chief Chirpa|defense|tenacity
 Chief Nebit|tenacity|potency
 Chirrut Îmwe|speed|health
@@ -33,9 +33,9 @@ Colonel Starck|speed|tenacity
 Commander Luke Skywalker|offense|potency
 Coruscant Underworld Police|tenacity|speed
 Count Dooku|potency|health
-"CT-21-0408 ""Echo"""|health|defense
-"CT-5555 ""Fives"""|defense|speed
-"CT-7567 ""Rex"""|crit_dam|health
+CT-21-0408 "Echo"|health|defense
+CT-5555 "Fives"|defense|speed
+CT-7567 "Rex"|crit_dam|health
 Darth Maul|crit_dam|tenacity
 Darth Nihilus|potency|offense
 Darth Sidious|tenacity|health
@@ -59,7 +59,7 @@ First Order Stormtrooper|defense|potency
 First Order TIE Pilot|crit_dam|potency
 Gamorrean Guard|health|crit_dam
 Gar Saxon|defense|crit_dam
-"Garazeb ""Zeb"" Orrelios"|health|speed
+Garazeb "Zeb" Orrelios|health|speed
 General Grievous|health|speed
 General Kenobi|defense|potency
 General Veers|speed|health
