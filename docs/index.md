@@ -18,6 +18,7 @@ Biggs Darklighter|crit_dam|health
 Bistan|speed|tenacity
 Boba Fett|tenacity|health
 Bodhi Rook|tenacity|potency
+Bossk|health|tenacity
 Cad Bane|offense|speed
 Captain Han Solo|potency|offense
 Captain Phasma|tenacity|offense
@@ -25,7 +26,7 @@ Cassian Andor|potency|defense
 CC-2224 "Cody"|crit_dam|defense
 Chief Chirpa|defense|tenacity
 Chief Nebit|tenacity|potency
-Chirrut Îmwe|speed|health
+Chirrut ÃŽmwe|speed|health
 Chopper|defense|potency
 Clone Sergeant - Phase I|crit_dam|tenacity
 Clone Wars Chewbacca|health|speed
@@ -51,7 +52,7 @@ Emperor Palpatine|potency|defense
 Ewok Elder|defense|offense
 Ewok Scout|crit_dam|health
 Ezra Bridger|tenacity|offense
-Finn|defense|crit_dam
+Finn|defense|speed
 First Order Executioner|offense|speed
 First Order Officer|speed|offense
 First Order SF TIE Pilot|tenacity|offense
@@ -130,7 +131,7 @@ Scarif Rebel Pathfinder|health|crit_dam
 Shoretrooper|health|crit_dam
 Sith Assassin|speed|defense
 Sith Marauder|health|potency
-Sith Trooper|health|speed
+Sith Trooper|offense|speed
 Snowtrooper|offense|defense
 Stormtrooper|crit_dam|tenacity
 Stormtrooper Han|defense|offense
@@ -141,7 +142,7 @@ TIE Fighter Pilot|speed|health
 Tusken Raider|offense|speed
 Tusken Shaman|health|tenacity
 Ugnaught|potency|crit_dam
-URoRRuR'R'R|speed|potency
+URoRRuR'R'R|speed|defense
 Veteran Smuggler Chewbacca|offense|speed
 Veteran Smuggler Han Solo|speed|defense
 Visas Marr|potency|offense
@@ -149,4 +150,3 @@ Wampa|offense|defense
 Wedge Antilles|crit_dam|health
 Wicket|crit_dam|potency
 Zam Wesell|speed|defense
-
