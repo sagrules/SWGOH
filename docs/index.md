@@ -4,7 +4,7 @@ The table that follows shows mod recommendations based on tune's stat percentile
 
 Character Name|Max|Min
 --------------|---|---
-Aayla Secura|crit_dam|health
+Aayla Secura|tenacity|health
 Admiral Ackbar|tenacity|crit_dam
 Ahsoka Tano|crit_dam|health
 Ahsoka Tano (Fulcrum)|tenacity|defense
@@ -131,7 +131,7 @@ Scarif Rebel Pathfinder|health|crit_dam
 Shoretrooper|health|crit_dam
 Sith Assassin|speed|defense
 Sith Marauder|health|potency
-Sith Trooper|offense|speed
+Sith Trooper|health|speed
 Snowtrooper|offense|defense
 Stormtrooper|crit_dam|tenacity
 Stormtrooper Han|defense|offense
@@ -142,11 +142,13 @@ TIE Fighter Pilot|speed|health
 Tusken Raider|offense|speed
 Tusken Shaman|health|tenacity
 Ugnaught|potency|crit_dam
-URoRRuR'R'R|speed|defense
+URoRRuR'R'R|speed|potency
+Vandor Chewbacca|offense|tenacity
 Veteran Smuggler Chewbacca|offense|speed
 Veteran Smuggler Han Solo|speed|defense
 Visas Marr|potency|offense
 Wampa|offense|defense
 Wedge Antilles|crit_dam|health
 Wicket|crit_dam|potency
+Young Han Solo|crit_dam|health
 Zam Wesell|speed|defense
