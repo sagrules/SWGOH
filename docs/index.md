@@ -26,7 +26,7 @@ Cassian Andor|potency|defense
 CC-2224 "Cody"|crit_dam|defense
 Chief Chirpa|defense|tenacity
 Chief Nebit|tenacity|potency
-Chirrut ÃŽmwe|speed|health
+Chirrut Imwe|speed|health
 Chopper|defense|potency
 Clone Sergeant - Phase I|crit_dam|tenacity
 Clone Wars Chewbacca|health|speed
@@ -49,6 +49,7 @@ Dengar|potency|speed
 Director Krennic|potency|defense
 Eeth Koth|potency|defense
 Emperor Palpatine|potency|defense
+Enfys Nest|speed|defense
 Ewok Elder|defense|offense
 Ewok Scout|crit_dam|health
 Ezra Bridger|tenacity|offense
@@ -63,7 +64,7 @@ Gar Saxon|defense|crit_dam
 Garazeb "Zeb" Orrelios|health|speed
 General Grievous|health|speed
 General Kenobi|defense|potency
-General Veers|speed|health
+General Veers|potency|health
 Geonosian Soldier|speed|health
 Geonosian Spy|crit_dam|defense
 Grand Admiral Thrawn|tenacity|offense
@@ -82,7 +83,7 @@ IG-88|crit_dam|health
 Ima-Gun Di|health|tenacity
 Imperial Probe Droid|potency|offense
 Imperial Super Commando|crit_dam|tenacity
-Jawa|speed|tenacity
+Jawa|defense|tenacity
 Jawa Engineer|speed|crit_dam
 Jawa Scavenger|tenacity|speed
 Jedi Consular|defense|offense
@@ -116,6 +117,7 @@ Plo Koon|tenacity|crit_dam
 Poe Dameron|tenacity|potency
 Poggle the Lesser|potency|crit_dam
 Princess Leia|speed|defense
+Qi'ra|crit_dam|potency
 Qui-Gon Jinn|potency|health
 R2-D2|tenacity|defense
 Rebel Officer Leia Organa|tenacity|offense
