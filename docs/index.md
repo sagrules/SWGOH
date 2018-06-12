@@ -53,7 +53,7 @@ Enfys Nest|speed|defense
 Ewok Elder|defense|offense
 Ewok Scout|crit_dam|health
 Ezra Bridger|tenacity|offense
-Finn|defense|speed
+Finn|defense|crit_dam
 First Order Executioner|offense|speed
 First Order Officer|speed|offense
 First Order SF TIE Pilot|tenacity|offense
@@ -95,6 +95,7 @@ Kanan Jarrus|crit_dam|speed
 Kit Fisto|offense|potency
 Kylo Ren|offense|tenacity
 Kylo Ren (Unmasked)|offense|crit_dam
+L3-37|health|speed
 Lando Calrissian|crit_dam|health
 Lobot|health|crit_dam
 Logray|potency|crit_dam
@@ -153,4 +154,5 @@ Wampa|offense|defense
 Wedge Antilles|crit_dam|health
 Wicket|crit_dam|potency
 Young Han Solo|crit_dam|health
+Young Lando Calrissian|offense|defense
 Zam Wesell|speed|defense
