@@ -76,7 +76,7 @@ Grand Moff Tarkin|tenacity|defense
 Greedo|offense|defense
 Han Solo|crit_dam|potency
 Hera Syndulla|tenacity|crit_dam
-Hermit Yoda|health|offense
+Hermit Yoda|tenacity|offense
 HK-47|defense|speed
 Hoth Rebel Scout|speed|defense
 Hoth Rebel Soldier|health|speed
@@ -130,20 +130,20 @@ Range Trooper|offense|potency
 Rebel Officer Leia Organa|speed|health
 Resistance Pilot|potency|tenacity
 Resistance Trooper|crit_dam|health
-Rey (Jedi Training)|crit_dam|potency
+Rey (Jedi Training)|crit_dam|health
 Rey (Scavenger)|speed|potency
 Rose Tico|potency|tenacity
-Royal Guard|health|speed
+Royal Guard|defense|speed
 Sabine Wren|speed|offense
 Savage Opress|offense|tenacity
-Scarif Rebel Pathfinder|health|crit_dam
+Scarif Rebel Pathfinder|defense|crit_dam
 Shoretrooper|health|crit_dam
 Sith Assassin|speed|health
 Sith Marauder|speed|potency
 Sith Trooper|offense|speed
 Snowtrooper|offense|speed
 Stormtrooper|defense|tenacity
-Stormtrooper Han|crit_dam|potency
+Stormtrooper Han|crit_dam|offense
 Sun Fac|defense|speed
 T3-M4|potency|defense
 Talia|health|tenacity
@@ -162,3 +162,5 @@ Wedge Antilles|crit_dam|health
 Wicket|crit_dam|potency
 Young Han Solo|potency|tenacity
 Young Lando Calrissian|offense|defense
+Zaalbar|health|speed
+Zam Wesell|speed|defense
