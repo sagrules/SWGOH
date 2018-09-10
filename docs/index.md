@@ -10,6 +10,7 @@ Ahsoka Tano|crit_dam|health
 Ahsoka Tano (Fulcrum)|crit_dam|health
 Amilyn Holdo|health|speed
 Asajj Ventress|crit_dam|speed
+Aurra Sing|speed|defense
 B2 Super Battle Droid|tenacity|speed
 Barriss Offee|defense|potency
 Bastila Shan|health|offense
@@ -49,6 +50,7 @@ Death Trooper|potency|health
 Dengar|offense|speed
 Director Krennic|potency|defense
 Eeth Koth|potency|defense
+Embo|crit_dam|health
 Emperor Palpatine|potency|crit_dam
 Enfys Nest|speed|defense
 Ewok Elder|tenacity|offense
@@ -74,8 +76,8 @@ Grand Moff Tarkin|tenacity|defense
 Greedo|offense|defense
 Han Solo|crit_dam|potency
 Hera Syndulla|tenacity|crit_dam
-Hermit Yoda|tenacity|offense
-HK-47|offense|speed
+Hermit Yoda|health|offense
+HK-47|defense|speed
 Hoth Rebel Scout|speed|defense
 Hoth Rebel Soldier|health|speed
 IG-100 MagnaGuard|health|speed
@@ -126,22 +128,22 @@ Qui-Gon Jinn|potency|defense
 R2-D2|tenacity|defense
 Range Trooper|offense|potency
 Rebel Officer Leia Organa|speed|health
-Resistance Pilot|potency|defense
+Resistance Pilot|potency|tenacity
 Resistance Trooper|crit_dam|health
 Rey (Jedi Training)|crit_dam|potency
 Rey (Scavenger)|speed|potency
 Rose Tico|potency|tenacity
-Royal Guard|defense|speed
+Royal Guard|health|speed
 Sabine Wren|speed|offense
 Savage Opress|offense|tenacity
-Scarif Rebel Pathfinder|defense|crit_dam
+Scarif Rebel Pathfinder|health|crit_dam
 Shoretrooper|health|crit_dam
 Sith Assassin|speed|health
 Sith Marauder|speed|potency
 Sith Trooper|offense|speed
 Snowtrooper|offense|speed
 Stormtrooper|defense|tenacity
-Stormtrooper Han|crit_dam|offense
+Stormtrooper Han|crit_dam|potency
 Sun Fac|defense|speed
 T3-M4|potency|defense
 Talia|health|tenacity
@@ -160,5 +162,3 @@ Wedge Antilles|crit_dam|health
 Wicket|crit_dam|potency
 Young Han Solo|potency|tenacity
 Young Lando Calrissian|offense|defense
-Zaalbar|health|speed
-Zam Wesell|speed|defense
