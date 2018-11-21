@@ -14,18 +14,21 @@ Aurra Sing|speed|defense
 B2 Super Battle Droid|tenacity|speed
 Barriss Offee|defense|potency
 Bastila Shan|health|offense
+Bastila Shan (Fallen)|potency|crit_dam
 Baze Malbus|defense|speed
 BB-8|speed|crit_dam
 Biggs Darklighter|potency|health
-Bistan|speed|tenacity
+Bistan|crit_dam|tenacity
 Boba Fett|offense|health
 Bodhi Rook|tenacity|potency
 Bossk|speed|potency
 Cad Bane|offense|speed
+Canderous Ordo|offense|potency
 Captain Han Solo|potency|offense
 Captain Phasma|potency|health
 Cassian Andor|potency|offense
 CC-2224 "Cody"|crit_dam|defense
+Chewbacca|offense|potency
 Chief Chirpa|defense|tenacity
 Chief Nebit|tenacity|potency
 Chirrut Imwe|speed|health
@@ -33,7 +36,7 @@ Chopper|defense|potency
 Clone Sergeant - Phase I|crit_dam|tenacity
 Clone Wars Chewbacca|health|speed
 Colonel Starck|speed|tenacity
-Commander Luke Skywalker|offense|potency
+Commander Luke Skywalker|crit_dam|potency
 Coruscant Underworld Police|health|speed
 Count Dooku|potency|health
 CT-21-0408 "Echo"|health|defense
@@ -41,7 +44,7 @@ CT-5555 "Fives"|defense|crit_dam
 CT-7567 "Rex"|crit_dam|health
 Darth Maul|crit_dam|tenacity
 Darth Nihilus|tenacity|offense
-Darth Sidious|speed|defense
+Darth Sidious|speed|health
 Darth Sion|offense|crit_dam
 Darth Traya|tenacity|crit_dam
 Darth Vader|defense|health
@@ -86,12 +89,14 @@ IG-88|crit_dam|defense
 Ima-Gun Di|offense|tenacity
 Imperial Probe Droid|potency|crit_dam
 Imperial Super Commando|defense|tenacity
+Jango Fett|speed|tenacity
 Jawa|speed|tenacity
 Jawa Engineer|speed|crit_dam
 Jawa Scavenger|health|speed
 Jedi Consular|health|offense
 Jedi Knight Anakin|crit_dam|defense
 Jedi Knight Guardian|potency|speed
+Jedi Knight Revan|tenacity|offense
 Jolee Bindo|defense|potency
 Jyn Erso|speed|potency
 K-2SO|health|crit_dam
@@ -119,7 +124,7 @@ Obi-Wan Kenobi (Old Ben)|defense|offense
 Old Daka|potency|tenacity
 Pao|potency|tenacity
 Paploo|defense|speed
-Plo Koon|health|crit_dam
+Plo Koon|tenacity|crit_dam
 Poe Dameron|speed|potency
 Poggle the Lesser|potency|crit_dam
 Princess Leia|speed|defense
@@ -127,7 +132,7 @@ Qi'ra|crit_dam|defense
 Qui-Gon Jinn|potency|defense
 R2-D2|tenacity|defense
 Range Trooper|offense|potency
-Rebel Officer Leia Organa|speed|health
+Rebel Officer Leia Organa|tenacity|health
 Resistance Pilot|potency|tenacity
 Resistance Trooper|crit_dam|health
 Rey (Jedi Training)|crit_dam|health
@@ -143,7 +148,7 @@ Sith Marauder|speed|potency
 Sith Trooper|offense|speed
 Snowtrooper|offense|speed
 Stormtrooper|defense|tenacity
-Stormtrooper Han|crit_dam|offense
+Stormtrooper Han|crit_dam|potency
 Sun Fac|defense|speed
 T3-M4|potency|defense
 Talia|health|tenacity
