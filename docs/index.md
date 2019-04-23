@@ -11,6 +11,7 @@ Ahsoka Tano (Fulcrum)|crit_dam|health
 Amilyn Holdo|health|speed
 Asajj Ventress|crit_dam|speed
 Aurra Sing|speed|defense
+B1 Battle Droid|offense|health
 B2 Super Battle Droid|tenacity|speed
 Barriss Offee|defense|potency
 Bastila Shan|health|offense
@@ -22,10 +23,12 @@ Bistan|crit_dam|tenacity
 Boba Fett|offense|health
 Bodhi Rook|tenacity|potency
 Bossk|speed|potency
+C-3PO|potency|offense
 Cad Bane|offense|speed
 Canderous Ordo|offense|potency
 Captain Han Solo|potency|offense
 Captain Phasma|potency|health
+Carth Onasi|speed|defense
 Cassian Andor|potency|offense
 CC-2224 "Cody"|crit_dam|defense
 Chewbacca|offense|potency
@@ -42,8 +45,10 @@ Count Dooku|potency|health
 CT-21-0408 "Echo"|health|defense
 CT-5555 "Fives"|defense|crit_dam
 CT-7567 "Rex"|crit_dam|health
+Darth Malak|tenacity|crit_dam
 Darth Maul|crit_dam|tenacity
 Darth Nihilus|tenacity|offense
+Darth Revan|tenacity|offense
 Darth Sidious|speed|health
 Darth Sion|offense|crit_dam
 Darth Traya|tenacity|crit_dam
@@ -52,6 +57,7 @@ Dathcha|speed|tenacity
 Death Trooper|potency|health
 Dengar|offense|speed
 Director Krennic|potency|defense
+Droideka|offense|speed
 Eeth Koth|potency|defense
 Embo|crit_dam|health
 Emperor Palpatine|potency|crit_dam
@@ -72,20 +78,20 @@ General Grievous|health|speed
 General Kenobi|tenacity|potency
 General Veers|potency|defense
 Geonosian Soldier|speed|potency
-Geonosian Spy|crit_dam|defense
+Geonosian Spy|crit_dam|potency
 Grand Admiral Thrawn|tenacity|offense
 Grand Master Yoda|speed|defense
 Grand Moff Tarkin|tenacity|defense
 Greedo|offense|defense
 Han Solo|crit_dam|potency
 Hera Syndulla|tenacity|crit_dam
-Hermit Yoda|tenacity|offense
+Hermit Yoda|speed|offense
 HK-47|defense|speed
 Hoth Rebel Scout|speed|defense
 Hoth Rebel Soldier|health|speed
 IG-100 MagnaGuard|health|speed
 IG-86 Sentinel Droid|crit_dam|defense
-IG-88|crit_dam|defense
+IG-88|crit_dam|potency
 Ima-Gun Di|offense|tenacity
 Imperial Probe Droid|potency|crit_dam
 Imperial Super Commando|defense|tenacity
@@ -98,6 +104,7 @@ Jedi Knight Anakin|crit_dam|defense
 Jedi Knight Guardian|potency|speed
 Jedi Knight Revan|tenacity|offense
 Jolee Bindo|defense|potency
+Juhani|offense|potency
 Jyn Erso|speed|potency
 K-2SO|health|crit_dam
 Kanan Jarrus|health|speed
@@ -141,7 +148,7 @@ Rose Tico|potency|tenacity
 Royal Guard|defense|speed
 Sabine Wren|speed|offense
 Savage Opress|offense|tenacity
-Scarif Rebel Pathfinder|defense|crit_dam
+Scarif Rebel Pathfinder|health|crit_dam
 Shoretrooper|health|crit_dam
 Sith Assassin|speed|health
 Sith Marauder|speed|potency
@@ -162,10 +169,10 @@ Vandor Chewbacca|offense|health
 Veteran Smuggler Chewbacca|offense|speed
 Veteran Smuggler Han Solo|speed|defense
 Visas Marr|potency|offense
-Wampa|offense|crit_dam
+Wampa|potency|crit_dam
 Wedge Antilles|crit_dam|health
 Wicket|crit_dam|potency
 Young Han Solo|potency|tenacity
-Young Lando Calrissian|offense|defense
+Young Lando Calrissian|crit_dam|defense
 Zaalbar|health|speed
 Zam Wesell|speed|defense
